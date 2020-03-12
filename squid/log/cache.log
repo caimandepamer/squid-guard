@@ -1,0 +1,110 @@
+2020/03/12 00:51:57| Set Current Directory to /var/spool/squid
+2020/03/12 00:51:57| Starting Squid Cache version 3.5.27 for x86_64-pc-linux-gnu...
+2020/03/12 00:51:57| Service Name: squid
+2020/03/12 00:51:57| Process ID 1
+2020/03/12 00:51:57| Process Roles: master worker
+2020/03/12 00:51:57| With 1048576 file descriptors available
+2020/03/12 00:51:57| Initializing IP Cache...
+2020/03/12 00:51:57| DNS Socket created at [::], FD 8
+2020/03/12 00:51:57| DNS Socket created at 0.0.0.0, FD 9
+2020/03/12 00:51:57| Adding domain INTERNA1 from /etc/resolv.conf
+2020/03/12 00:51:57| Adding domain ibmlab.com.pe from /etc/resolv.conf
+2020/03/12 00:51:57| Adding nameserver 192.10.100.1 from /etc/resolv.conf
+2020/03/12 00:51:57| Logfile: opening log daemon:/var/log/squid/access.log
+2020/03/12 00:51:57| Logfile Daemon: opening log /var/log/squid/access.log
+2020/03/12 00:51:57| Unlinkd pipe opened on FD 15
+2020/03/12 00:51:57| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2020/03/12 00:51:57| Store logging disabled
+2020/03/12 00:51:57| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2020/03/12 00:51:57| Target number of buckets: 1402
+2020/03/12 00:51:57| Using 8192 Store buckets
+2020/03/12 00:51:57| Max Mem  size: 262144 KB
+2020/03/12 00:51:57| Max Swap size: 102400 KB
+2020/03/12 00:51:57| Rebuilding storage in /var/spool/squid (dirty log)
+2020/03/12 00:51:57| Using Least Load store dir selection
+2020/03/12 00:51:57| Set Current Directory to /var/spool/squid
+2020/03/12 00:51:57| Finished loading MIME types and icons.
+2020/03/12 00:51:57| HTCP Disabled.
+2020/03/12 00:51:57| commBind: Cannot bind socket FD 19 to [::1]: (99) Cannot assign requested address
+2020/03/12 00:51:57| commBind: Cannot bind socket FD 20 to [::1]: (99) Cannot assign requested address
+2020/03/12 00:51:57| ERROR: Failed to create helper child read FD: UDP[::1]
+2020/03/12 00:51:57| Squid plugin modules loaded: 0
+2020/03/12 00:51:57| Adaptation support is off.
+2020/03/12 00:51:57| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 18 flags=9
+2020/03/12 00:51:57| Done reading /var/spool/squid swaplog (0 entries)
+2020/03/12 00:51:57| Store rebuilding is 0.00% complete
+2020/03/12 00:51:57| Finished rebuilding storage from disk.
+2020/03/12 00:51:57|         0 Entries scanned
+2020/03/12 00:51:57|         0 Invalid entries.
+2020/03/12 00:51:57|         0 With invalid flags.
+2020/03/12 00:51:57|         0 Objects loaded.
+2020/03/12 00:51:57|         0 Objects expired.
+2020/03/12 00:51:57|         0 Objects cancelled.
+2020/03/12 00:51:57|         0 Duplicate URLs purged.
+2020/03/12 00:51:57|         0 Swapfile clashes avoided.
+2020/03/12 00:51:57|   Took 0.02 seconds (  0.00 objects/sec).
+2020/03/12 00:51:57| Beginning Validation Procedure
+2020/03/12 00:51:57|   Completed Validation Procedure
+2020/03/12 00:51:57|   Validated 0 Entries
+2020/03/12 00:51:57|   store_swap_size = 0.00 KB
+2020/03/12 00:51:58| storeLateRelease: released 0 objects
+2020/03/12 00:53:39| Set Current Directory to /var/spool/squid
+2020/03/12 00:53:57| Set Current Directory to /var/spool/squid
+2020/03/12 00:54:02| Set Current Directory to /var/spool/squid
+2020/03/12 00:54:09| Set Current Directory to /var/spool/squid
+2020/03/12 00:54:35| Preparing for shutdown after 1 requests
+2020/03/12 00:54:35| Waiting 30 seconds for active connections to finish
+2020/03/12 00:54:35| Closing HTTP port [::]:3128
+2020/03/12 00:56:23| Set Current Directory to /var/spool/squid
+2020/03/12 00:56:23| Starting Squid Cache version 3.5.27 for x86_64-pc-linux-gnu...
+2020/03/12 00:56:23| Service Name: squid
+2020/03/12 00:56:23| Process ID 1
+2020/03/12 00:56:23| Process Roles: master worker
+2020/03/12 00:56:23| With 1048576 file descriptors available
+2020/03/12 00:56:23| Initializing IP Cache...
+2020/03/12 00:56:23| DNS Socket created at [::], FD 8
+2020/03/12 00:56:23| DNS Socket created at 0.0.0.0, FD 9
+2020/03/12 00:56:23| Adding domain INTERNA1 from /etc/resolv.conf
+2020/03/12 00:56:23| Adding domain ibmlab.com.pe from /etc/resolv.conf
+2020/03/12 00:56:23| Adding nameserver 192.10.100.1 from /etc/resolv.conf
+2020/03/12 00:56:23| Logfile: opening log daemon:/var/log/squid/access.log
+2020/03/12 00:56:23| Logfile Daemon: opening log /var/log/squid/access.log
+2020/03/12 00:56:23| Unlinkd pipe opened on FD 15
+2020/03/12 00:56:23| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2020/03/12 00:56:23| Store logging disabled
+2020/03/12 00:56:23| Swap maxSize 102400 + 262144 KB, estimated 28041 objects
+2020/03/12 00:56:23| Target number of buckets: 1402
+2020/03/12 00:56:23| Using 8192 Store buckets
+2020/03/12 00:56:23| Max Mem  size: 262144 KB
+2020/03/12 00:56:23| Max Swap size: 102400 KB
+2020/03/12 00:56:23| Rebuilding storage in /var/spool/squid (dirty log)
+2020/03/12 00:56:23| Using Least Load store dir selection
+2020/03/12 00:56:23| Set Current Directory to /var/spool/squid
+2020/03/12 00:56:23| Finished loading MIME types and icons.
+2020/03/12 00:56:23| HTCP Disabled.
+2020/03/12 00:56:23| commBind: Cannot bind socket FD 19 to [::1]: (99) Cannot assign requested address
+2020/03/12 00:56:23| commBind: Cannot bind socket FD 20 to [::1]: (99) Cannot assign requested address
+2020/03/12 00:56:23| ERROR: Failed to create helper child read FD: UDP[::1]
+2020/03/12 00:56:23| Squid plugin modules loaded: 0
+2020/03/12 00:56:23| Adaptation support is off.
+2020/03/12 00:56:23| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 18 flags=9
+2020/03/12 00:56:23| Done reading /var/spool/squid swaplog (0 entries)
+2020/03/12 00:56:23| Store rebuilding is 0.00% complete
+2020/03/12 00:56:23| Finished rebuilding storage from disk.
+2020/03/12 00:56:23|         0 Entries scanned
+2020/03/12 00:56:23|         0 Invalid entries.
+2020/03/12 00:56:23|         0 With invalid flags.
+2020/03/12 00:56:23|         0 Objects loaded.
+2020/03/12 00:56:23|         0 Objects expired.
+2020/03/12 00:56:23|         0 Objects cancelled.
+2020/03/12 00:56:23|         0 Duplicate URLs purged.
+2020/03/12 00:56:23|         0 Swapfile clashes avoided.
+2020/03/12 00:56:23|   Took 0.04 seconds (  0.00 objects/sec).
+2020/03/12 00:56:23| Beginning Validation Procedure
+2020/03/12 00:56:23|   Completed Validation Procedure
+2020/03/12 00:56:23|   Validated 0 Entries
+2020/03/12 00:56:23|   store_swap_size = 0.00 KB
+2020/03/12 00:56:24| storeLateRelease: released 0 objects
+2020/03/12 01:18:36| Preparing for shutdown after 4 requests
+2020/03/12 01:18:36| Waiting 30 seconds for active connections to finish
+2020/03/12 01:18:36| Closing HTTP port [::]:3128
