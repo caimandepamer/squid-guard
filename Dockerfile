@@ -9,7 +9,7 @@ ENV SQUID_VERSION=3.5.27 \
 RUN apt-get update \
  && DEBIAN_FRONTEND=noninteractive apt-get install -y squid=${SQUID_VERSION}* \
  && apt update -y  \
- && apt install -y squidguard curl vim telnet\
+ && apt install -y squidguard\
  && rm -rf /var/lib/apt/lists/*
 
 RUN curl -o /tmp/blacklists.tar.gz ftp://ftp.ut-capitole.fr/pub/reseau/cache/squidguard_contrib/blacklists.tar.gz
