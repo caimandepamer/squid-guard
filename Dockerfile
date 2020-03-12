@@ -1,5 +1,5 @@
 FROM ubuntu
-LABEL maintainer="rafael.campoverde@pe.ibm.com"
+LABEL maintainer="erojas@pe.ibm.ccom,rafael.campoverde@pe.ibm.com"
 
 ENV SQUID_VERSION=3.5.27 \
     SQUID_CACHE_DIR=/var/spool/squid \
